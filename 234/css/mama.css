@@ -1,0 +1,17 @@
+.pikcha {
+	background: url(../img/ink.jpg);
+	height: 1000px;
+
+}
+
+body {
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+
+
+}
+
+.teg {
+	font-size: 80px;
+	color: lightblue;
+	}
